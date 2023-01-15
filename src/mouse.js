@@ -1,3 +1,4 @@
+import Pointer from './pointer.js';
 export default class Mouse extends Pointer{
   constructor(){
     super("mouse");
