@@ -1,3 +1,7 @@
+import Pointer from './pointer.js';
+import Mouse from './mouse.js';
+import Pointers from './pointers.js';
+
 export default class Reisen{
   constructor(element,options={}){
     const safeOption={
