@@ -1,3 +1,6 @@
+import Pointer from './pointer.js';
+import Mouse from './mouse.js';
+
 export default class Pointers extends Array{
   constructor(){
     super();
